@@ -18,6 +18,7 @@ h3 {
     background-color: #A12442;
     color: #F4CAD4; 
     padding: 10px;
+    font-size: 2em;
 }
 
 h2 {
@@ -25,17 +26,35 @@ h2 {
     color: #F4CAD4; 
     padding: 10px; 
     text-align: left;
+    font-size: 2em;
 }
+
+
 
 h1 {
-    background-color: #A12442;
-    color: #F4CAD4; 
-    padding: 12%; 
+    background-color: #610F23;
+    color: #A12442; 
+    padding-top: 20%; 
+    padding-bottom:  20%;
+    padding-left: 2%;
+    padding-right: 2%;
     margin-right: 9%;
-    font-size: 3em;
+    font-size: 5em;
+    text-align: center;
 }
 
-img {
+.raz {
+    color: #C03D5C;
+}
+
+.choc {
+    color: #E5D2B6;
+}
+
+.cook {
+    color: #975C5C;
+}
+.titleimg {
     width: 27%; 
     height: auto; 
 }
@@ -44,3 +63,9 @@ section {
     max-width: 90%;
     margin: 20px;
 }
+
+.fade {
+    max-width: 90%;
+    height: auto;
+}
+
