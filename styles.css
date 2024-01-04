@@ -8,6 +8,39 @@ body {
     margin: 0;
 }
 
-h1 {
+.header-section {
+    display: flex;
+    align-items: center; 
+}
+
+h3 {
     text-align: center;
+    background-color: #A12442;
+    color: #F4CAD4; 
+    padding: 10px;
+}
+
+h2 {
+    background-color: #A12442;
+    color: #F4CAD4; 
+    padding: 10px; 
+    text-align: left;
+}
+
+h1 {
+    background-color: #A12442;
+    color: #F4CAD4; 
+    padding: 12%; 
+    margin-right: 9%;
+    font-size: 3em;
+}
+
+img {
+    width: 27%; 
+    height: auto; 
+}
+
+section {
+    max-width: 90%;
+    margin: 20px;
 }
