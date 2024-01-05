@@ -1,4 +1,8 @@
+
+
+
 body {
+    font-family: 'IM Fell Great Primer SC', serif;
     background-color: #FEF7EC !important;
     display: flex;
     flex-direction: column;
@@ -89,8 +93,14 @@ section {
     margin-bottom: 0%;
 }
 
+.tut {
+    width: 200px;
+    align-items: right;
+}
+
 p {
     color: #350A14;
+    font-size: 1em;
 }
 
 .ingredients {
